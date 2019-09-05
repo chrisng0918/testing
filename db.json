@@ -1,10 +1,4 @@
-{
-  "application": {
-    "status": "success"
-  },
-  "payload": {
-    "xid": "15644663695258247",
-    "videos": {
+
       "available": [
         {
           "id": "ff8080826c2a51b5016c2e21381c0000",
@@ -71,6 +65,3 @@
           "attachment": null
         }
       ]
-    }
-  }
-}
