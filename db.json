@@ -5,7 +5,72 @@
   "payload": {
     "xid": "15644663695258247",
     "videos": {
-      "available": []
+      "previous": [
+        {
+          "id": "ff8080826c2a51b5016c2e21381c0000",
+          "title": "「友邦早晨」7月29日",
+          "desc": "今期內容：  \r\n\r\n我們特別邀請了營業總經理 詹振聲先生為大家特別報導最新消息!!",
+          "date": 1564329660000,
+          "end_date": 1564502460000,
+          "duration": "05:18",
+          "url": "",
+          "language": "C",
+          "url2": "",
+          "language2": "M",
+          "video_provider": "EXTERNAL",
+          "thumbnail": "",
+          "module": "MORNING",
+          "attachment": null
+        },
+        {
+          "id": "ff8080826b9a1f99016b9e2966580000",
+          "title": "「友邦早晨」7月2日",
+          "desc": "今期內容：\r\n友邦百週年CEO Club\r\nAIA 延期年金計劃\r\n「再次投保」Power Up大激賞\r\nAIA KOL 大募集：時薪一萬八，網紅用 App 有啓發\r\n全城招募”友”支援\r\n2019年5月每月之星    （以保單數目 / FYC 計算）  ",
+          "date": 1561996980000,
+          "end_date": 1562511600000,
+          "duration": "10:26",
+          "url": "",
+          "language": "C",
+          "url2": "",
+          "language2": "M",
+          "video_provider": "EXTERNAL",
+          "thumbnail": "",
+          "module": "MORNING",
+          "attachment": null
+        },
+        {
+          "id": "ff8080826b9a1f9c016b9e31d58f0004",
+          "title": "「友邦早晨」7月2日 （普通話版）",
+          "desc": "今期內容：\r\n- 友邦百週年CEO Club\r\n- AIA 延期年金計劃\r\n- 「再次投保」Power Up大激賞\r\n- AIA KOL 大募集：時薪一萬八，網紅用 App 有啓發\r\n- 全城招募”友”支援\r\n- 2019年5月每月之星（以保單數目 / FYC 計算）  ",
+          "date": 1561996860000,
+          "end_date": 1561996920000,
+          "duration": "10:26",
+          "url": "",
+          "language": "C",
+          "url2": "",
+          "language2": "M",
+          "video_provider": "EXTERNAL",
+          "thumbnail": "",
+          "module": "MORNING",
+          "attachment": null
+        },
+        {
+          "id": "ff8080826b520691016b54dca0870000",
+          "title": "「友邦早晨」6月17日",
+          "desc": "歡迎大家收看6月17日的「友邦早晨」！\r\n\r\n今期內容更包括了：\r\n\r\n- 6月份競賽\r\n\r\n- AIA x 紅十字會捐血大行動\r\n\r\n- 保險業監管局 資訊\r\n\r\n- 「瞬間看C&A」 - Active Club Plus 2.0\r\n\r\n- 6月、 7月和 8 月 公司重要活動\r\n\r\n- 6月新生意截數日\r\n\r\n- 2019 Active Club 午宴精華片段\r\n\r\n- 【延長】核保部推廣活動 - 免體檢限額提升及豁免非受薪人士遞交「財富來源聲明書」",
+          "date": 1560700860000,
+          "end_date": 1561392060000,
+          "duration": "07:33",
+          "url": "",
+          "language": "C",
+          "url2": "",
+          "language2": "M",
+          "video_provider": "EXTERNAL",
+          "thumbnail": "",
+          "module": "MORNING",
+          "attachment": null
+        }
+      ]
     }
   }
 }
